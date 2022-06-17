@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BtnClose.qml</file>
+        <file>BtnCustom.qml</file>
+        <file>BtnNonVis.qml</file>
+        <file>BtnToggle.qml</file>
+        <file>pageRotorAlgoritms.qml</file>
+        <file>pageRotorManualControl.qml</file>
+        <file>pageSettings.qml</file>
+        <file>images/Gear_Animated.gif</file>
+        <file>images/krest.png</file>
+        <file>images/kvadrat.png</file>
+        <file>images/palka.png</file>
+        <file>images/123.png</file>
+        <file>images/Goniometr.png</file>
+        <file>images/load.png</file>
+        <file>images/save.png</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+        <file>BtnImageDynamic.qml</file>
+        <file>images/delete.png</file>
+        <file>images/deleteLast.png</file>
+    </qresource>
+</RCC>
